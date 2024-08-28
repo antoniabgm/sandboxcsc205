@@ -1,4 +1,4 @@
-package org.example.sandbox;
+package org.example.sandbox.hello;
 
 public class HelloWorld {
 
