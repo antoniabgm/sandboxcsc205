@@ -25,7 +25,7 @@ public class Demo {
         list.add("Hola");
         list.add("Ollo");
 
-        //list.forEach(System.out::println);
+        //queue.forEach(System.out::println);
 
         Queue<String> queue = new LinkedList<>();
 

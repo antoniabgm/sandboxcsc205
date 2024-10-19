@@ -10,7 +10,7 @@ public class CollectionsDemo {
         Set<String> set2 = new HashSet<>(); // SET means it does not allow duplicates
         Set<String> set3 = new TreeSet<>(); // TREESET maintains order and sorts the elements
 
-        List<String> list = new ArrayList<>(); //how to declare and initialize a list
+        List<String> list = new ArrayList<>(); //how to declare and initialize a queue
 
         Queue<String> queue = new LinkedList<>();
         Deque<String> deque = new LinkedList<>();
