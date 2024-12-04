@@ -1,4 +1,4 @@
-package org.example.sandbox.algorithm;
+package sandbox.recursion;
 
 import java.util.HashMap;
 import java.util.Map;
