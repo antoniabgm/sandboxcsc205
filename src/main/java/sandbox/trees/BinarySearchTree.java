@@ -65,7 +65,7 @@ public class BinarySearchTree<T extends Comparable> implements Tree<T> {
 
         if (target == null) {
             throw new ElementNotFoundException(this.getClass()
-                    .getCanonicalName());
+                     .getCanonicalName());
         }
 
         return (target.getElement());
